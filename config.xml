@@ -15,5 +15,9 @@
   <author href="http://24cyprus.com" email="24cypruscom@gmail.com">
       EPHONA LIMITED
   </author>
+  <platform name="ios" />
+  <platform name="android" />
+  <platform name="winphone" />
+
 
 </widget>
