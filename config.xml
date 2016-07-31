@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.24cypruscom.rentals"
+    id          = "24cyprus.com"
     versionCode = "10"
     version     = "1.0.5" >
 
@@ -13,7 +13,7 @@
       Cyprus real estate free listings by owners
   </description>
   <icon src="icon.png" />
-  <author href="http://24cyprus.com" email="24cypruscom@gmail.com.com">
+  <author href="http://24cyprus.com" email="24cypruscom@gmail.com">
       EPHONA LIMITED
   </author>
 
